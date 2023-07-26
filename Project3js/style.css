@@ -1,0 +1,19 @@
+button{
+    display: inline-block;
+    background: yellow;
+    color: white;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-left: 6%;
+    
+}
+.main-heading{
+    align-content: center;
+    background-color: blue;
+}
+img{
+    margin-left: 12%;
+}
