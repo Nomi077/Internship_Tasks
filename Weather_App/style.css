@@ -1,0 +1,65 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+main {
+  width: 100%;
+  height: 100vh;
+  background-color: #00bcaa;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1000px;
+  margin: 10px;
+  font-size: 40px;
+  color: white;
+}
+
+#search {
+  font-size: 25px;
+  padding: 10px;
+  background-color: #00bcaa;
+  border: none;
+  border-bottom: 3px solid white;
+  margin-top: 9%;
+  color: white;
+}
+
+button {
+  background-color: #00bcaa;
+  border: none;
+  font-size: inherit;
+  color: white;
+  margin-left: 45px;
+  margin-top: 95px;
+}
+#city_name {
+  width: 265%;
+  margin-left: -121px;
+  margin-top: 38px;
+  border: none;
+  border-bottom: solid 3px white;
+}
+.colomn1 {
+  margin-top: 41px;
+  margin-left: -120px;
+}
+#cel_temp {
+  color: #a0e6e0;
+  font-weight: 100;
+}
+.colomn2 {
+  margin-left: 103%;
+  margin-top: -75%;
+  color: #a0e6e0;
+  width: 100%;
+  font-size: 23px;
+}
